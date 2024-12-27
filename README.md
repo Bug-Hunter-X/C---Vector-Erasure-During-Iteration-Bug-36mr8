@@ -1,0 +1,1 @@
+This repository demonstrates a common error when removing elements from a std::vector in C++ while iterating using an index. The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides the corrected implementation using iterators.  This demonstrates a safer approach to avoid index issues when modifying vectors during iteration.
